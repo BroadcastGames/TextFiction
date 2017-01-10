@@ -17,3 +17,5 @@ http://www.onyxbits.de/textfiction
 
 Google Play:
 https://play.google.com/store/apps/details?id=de.onyxbits.textfiction
+
+Updated to Android Studio 2.2.3 and related gradle build system.
